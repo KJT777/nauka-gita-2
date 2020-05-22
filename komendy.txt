@@ -1,5 +1,7 @@
+autoprefixer-cli ma czytać z pliku style.css i zapisywać wynik do pliku style.prefixed.css 
 Usage:
 autoprefixer-cli -o main.prefixed.css main.css
+html-validate ma wyświetlać listę błędów we wszystkich plikach .html.
 Configuration
 
 Create .htmlvalidate.json:
