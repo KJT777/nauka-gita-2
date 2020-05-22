@@ -16,6 +16,7 @@ Create .htmlvalidate.json:
     "void": ["warn", {"style": "omit"}]
   }
 }
+DODATKOWE INFO
 Test
 
 Testing is done using jest.
